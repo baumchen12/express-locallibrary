@@ -213,7 +213,6 @@ exports.book_delete_post = function(req, res, next) {
         }
     });
 };
-};
 
 // Display book update form on GET.
 exports.book_update_get = function(req, res, next) {
